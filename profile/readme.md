@@ -7,11 +7,15 @@
     <td align="center"><img src="" width="100px;" alt=""/><br /><sub><b>기획</b></sub><br /></td>
 
 ### Design
+<table>
+<tr>
 
     <td align="center"><img src="" width="100px;" alt=""/><br /><sub><b>디자인</b></sub><br /></td>
     <td align="center"><img src="" width="100px;" alt=""/><br /><sub><b>디자인</b></sub><br /></td>
+</tr>
+</table>
 
-### Android
+### Front
 <table>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/46455370?v=4" width="100px;" alt=""/><br /><sub><b>김영덕</b></sub><br /></td>
@@ -24,7 +28,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="" width="100px;" alt=""/><br /><sub><b>소원</b></sub><br /></td>
+     <td align="center"><img src="https://avatars.githubusercontent.com/u/46455370?v=4" width="100px;" alt=""/><br /><sub><b>소원</b></sub><br /></td>
     
     <td align="center"><img src="https://avatars.githubusercontent.com/u/79622645?v=4" width="100px;" alt=""/><br /><sub><b>김광민</b></sub><br /></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/58305106?v=4" width="100px;" alt=""/><br /><sub><b>최동훈</b></sub><br /></td>
