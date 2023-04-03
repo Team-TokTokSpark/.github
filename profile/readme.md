@@ -1,17 +1,9 @@
 
 ## 🌟IT`S TIME 톡톡튀조🌟
 
-### PM
+### PM & Design
 
  <table>
-  <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/77392694?v=4" width="100px;" alt=""/><br /><sub><b>이현지</b></sub><br /></td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/127166309?v=4" width="100px;" alt=""/><br /><sub><b>지세희</b></sub><br /></td>
-    </tr>
-</table>
-
-### Design
-<table>
   <tr>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/77392694?v=4" width="100px;" alt=""/><br /><sub><b>이현지</b></sub><br /></td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/127166309?v=4" width="100px;" alt=""/><br /><sub><b>지세희</b></sub><br /></td>
